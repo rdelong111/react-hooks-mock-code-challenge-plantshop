@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "https://picturethisai.com/assets/share_photo.png",
+      "name": "Test Ryan",
+      "price": 243.34,
+      "id": 8
     }
   ]
 }
